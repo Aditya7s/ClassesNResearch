@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quantum III/Discrete Symmetries.md",
+            "file": "ClassesNResearch/Quantum III/Discrete Symmetries.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Quantum III/Discrete Symmetries.md",
+            "file": "ClassesNResearch/Quantum III/Discrete Symmetries.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Quantum III/Discrete Symmetries.md",
+            "file": "ClassesNResearch/Quantum III/Discrete Symmetries.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -106,7 +106,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Quantum III/Discrete Symmetries.md"
+            "file": "ClassesNResearch/Quantum III/Discrete Symmetries.md"
           }
         }
       }
@@ -115,10 +115,10 @@
   },
   "active": "5f0eb20933c0123d",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Quantum III/Discrete Symmetries.md",
-    "Research/Papers/Evolving test-fields in a black-hole geometry, Nils Andersson et al., 1996.pdf",
     "Research/Papers/Black hole ringdown_ the importance of overtones, Matthew Giesler et al., 2019.pdf",
+    "Quantum III/Discrete Symmetries.md",
+    "Untitled.md",
+    "Research/Papers/Evolving test-fields in a black-hole geometry, Nils Andersson et al., 1996.pdf",
     "Research/Excitation Factors Fitting of Black Holes.md",
     "Quantum III/Magnetic Moment.md",
     "Research/Honors Thesis and Updates on Research.md",
