@@ -1,0 +1,3 @@
+While fitting the models of binary black holes, SciPy fitting seems to be unable to fit for a majority of black holes.
+
+As a preface I want to go over how I obtained the specific binary black hole models that I wish to fit. Starting with the model from Giesler's paper [[Black hole ringdown_ the importance of overtones, Matthew Giesler et al., 2019.pdf]], I used the remnant mass spin from that paper (which was ~0.69) and searched for all the black holes with a similar spin, $\pm 0.05$ spin, from the SXS Catalog. This brought about 576 binary black hole simulations that I down [[Honors Thesis and Updates on Research]]

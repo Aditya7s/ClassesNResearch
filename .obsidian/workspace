@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "ea6588716b54a40e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f0eb20933c0123d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Quantum III/Discrete Symmetries.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0dc95481a3d3918e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e9e0a29f2794019",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9112be2e957fa86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1dd0e0094523411b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "008601c756e800d9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f67d08b6e336377a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9b3d464f733e093",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05dce7cd7ad1d823",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quantum III/Discrete Symmetries.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "038302054db56230",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Quantum III/Discrete Symmetries.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "438cfb6ca2ce0b27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "418054e917ce9a10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Quantum III/Discrete Symmetries.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5f0eb20933c0123d",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Quantum III/Discrete Symmetries.md",
+    "Research/Papers/Evolving test-fields in a black-hole geometry, Nils Andersson et al., 1996.pdf",
+    "Research/Papers/Black hole ringdown_ the importance of overtones, Matthew Giesler et al., 2019.pdf",
+    "Research/Excitation Factors Fitting of Black Holes.md",
+    "Quantum III/Magnetic Moment.md",
+    "Research/Honors Thesis and Updates on Research.md",
+    "Quantum III/Range of KE used in Nuclear and Particle Physics.md",
+    "2022-08-31.md",
+    "Research/Black hole ringdown_ the importance of overtones, Matthew Giesler et al., 2019.pdf"
+  ]
+}

@@ -1,0 +1,1 @@
+study excitation of Ringdown modes in simulations from bbh Excitation factor from inital data 
