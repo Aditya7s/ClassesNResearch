@@ -19,114 +19,99 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0dc95481a3d3918e",
-    "type": "split",
+    "id": "2941fd81d89761d2",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "8e9e0a29f2794019",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e9112be2e957fa86",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "1dd0e0094523411b",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "008601c756e800d9",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
+        "id": "0024d5899ecea9a7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "1f7a602682da43e5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "f8f2ba5ba88cc721",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c7f6dbd0e9508368",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300
+    "currentTab": 0
   },
   "right": {
-    "id": "f67d08b6e336377a",
-    "type": "split",
+    "id": "4557a4a99bf48ef2",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "d9b3d464f733e093",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "05dce7cd7ad1d823",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Quantum III/Discrete Symmetries.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "038302054db56230",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Quantum III/Discrete Symmetries.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "438cfb6ca2ce0b27",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "418054e917ce9a10",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Quantum III/Discrete Symmetries.md"
-              }
-            }
+        "id": "b1489d0bdce56fa1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Quantum III/Discrete Symmetries.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
+      },
+      {
+        "id": "ce7dd78c4a0c421c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Quantum III/Discrete Symmetries.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3896cb66e1e43126",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Quantum III/Discrete Symmetries.md"
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "5f0eb20933c0123d",
   "lastOpenFiles": [
